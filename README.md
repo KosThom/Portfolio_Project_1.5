@@ -1,4 +1,4 @@
-# Portfolio_Project_5
+# Portfolio_Project_5*
 Movie Data Exploration using Python. 
 
 In this project we will use Python in order to draw some simple conlcusions from a csv movie dataset (time period 1986-2016).
@@ -18,3 +18,5 @@ We also check if there is a correlation between budget and score from the viewer
 respective scatterplot with regression line
 
 We have also built a correlation matrix and the respective heatmap in order to calculate the correlation coefficients (budget vs gross revenue and budget vs score, respectively).
+
+* was numbered as 5 due to consistency reasons, since project 4 is about Tableau and therefore cannot be saved here 
