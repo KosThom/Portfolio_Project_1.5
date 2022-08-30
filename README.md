@@ -19,4 +19,4 @@ respective scatterplot with regression line
 
 We have also built a correlation matrix and the respective heatmap in order to calculate the correlation coefficients (budget vs gross revenue and budget vs score, respectively).
 
-^ was numbered as 5 due to consistency reasons, since project 4 is about Tableau and therefore cannot be saved here 
+^ was numbered as 5 due to consistency reasons, since project 4 in my portfolio Website is about Tableau and therefore cannot be saved here 
